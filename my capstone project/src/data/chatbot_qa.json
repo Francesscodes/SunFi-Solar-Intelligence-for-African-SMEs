@@ -1,0 +1,212 @@
+[
+  {
+    "question_id": "FAQ001",
+    "category": "Financial",
+    "keywords": ["cost", "price", "expensive", "afford", "how much"],
+    "question_text": "How much does a solar system cost in Africa?",
+    "answer_text": "Solar system costs vary by country and system size. A basic home system (300W-1kW) typically ranges from $500-$2,000 USD, while larger systems (3-5kW) cost $3,000-$8,000. Prices include panels, inverter, batteries, and installation. Countries like South Africa, Kenya, and Nigeria have competitive markets with lower prices. Many providers offer pay-as-you-go (PAYG) plans starting from $0.50-$2 per day, making solar accessible without large upfront costs."
+  },
+  {
+    "question_id": "FAQ002",
+    "category": "Financial",
+    "keywords": ["payment", "installment", "pay-as-you-go", "PAYG", "financing"],
+    "question_text": "What payment options are available for solar systems?",
+    "answer_text": "African solar providers offer flexible payment options: (1) Pay-As-You-Go (PAYG) - daily/weekly/monthly payments via mobile money (M-Pesa, MTN Mobile Money, Airtel Money), (2) Installment plans - 6-36 months with 10-30% deposit, (3) Cash purchase with discounts, (4) Microfinance loans through SACCOs and MFIs, (5) Rent-to-own programs. Mobile money integration makes payments convenient and accessible even in remote areas."
+  },
+  {
+    "question_id": "FAQ003",
+    "category": "Financial",
+    "keywords": ["savings", "electricity bill", "save money", "cheaper"],
+    "question_text": "How much money can I save with solar energy?",
+    "answer_text": "Solar can reduce electricity costs by 50-100% depending on your current energy source. If using grid electricity, expect 50-80% savings (paying $50/month could drop to $10-25). If using kerosene, candles, or diesel generators, you could save 100% of those costs plus health benefits. A typical African household spending $30-60 monthly on kerosene and phone charging can recover solar investment within 1-3 years. Businesses using diesel generators save $0.30-$0.50 per kWh by switching to solar."
+  },
+  {
+    "question_id": "FAQ004",
+    "category": "Financial",
+    "keywords": ["subsidy", "government", "incentive", "rebate", "support"],
+    "question_text": "Are there government subsidies or incentives for solar in Africa?",
+    "answer_text": "Many African countries offer solar incentives: Kenya - VAT exemption on solar products; South Africa - tax rebates and net metering programs; Ghana - import duty exemptions; Rwanda - tax incentives for renewable energy; Nigeria - subsidies through Rural Electrification Agency. Some countries have removed VAT/import duties on solar equipment. Check with your national energy authority or solar providers about current programs. Development banks and international organizations also offer grants for solar projects in rural areas."
+  },
+  {
+    "question_id": "FAQ005",
+    "category": "Financial",
+    "keywords": ["return on investment", "ROI", "payback", "worth it", "recover cost"],
+    "question_text": "What is the return on investment for solar systems?",
+    "answer_text": "Solar systems in Africa typically offer 15-30% annual ROI with 3-7 year payback periods. Factors affecting ROI: current energy costs (higher costs = faster payback), system size, financing terms, and local electricity rates. Grid-connected areas see 5-7 year payback, while off-grid areas replacing generators/kerosene see 3-5 years. Over a 25-year lifespan, solar can save 5-10 times the initial investment. Businesses see even faster returns due to higher energy consumption and productivity gains."
+  },
+  {
+    "question_id": "FAQ006",
+    "category": "Technical",
+    "keywords": ["size", "capacity", "how many", "watts", "kilowatts"],
+    "question_text": "What size solar system do I need for my home?",
+    "answer_text": "System size depends on your energy needs: Small home (lights, phone charging, radio, TV): 100-300W system; Medium home (above plus laptop, fans, small fridge): 500W-1.5kW; Large home (above plus washing machine, larger appliances): 2-5kW. Calculate by listing your appliances, their wattage, and daily usage hours. Most African homes need 300W-1.5kW systems. A solar provider can conduct an energy audit to right-size your system and avoid overpaying for unnecessary capacity."
+  },
+  {
+    "question_id": "FAQ007",
+    "category": "Technical",
+    "keywords": ["battery", "storage", "backup", "power storage", "battery life"],
+    "question_text": "How long do solar batteries last and which type is best?",
+    "answer_text": "Battery types and lifespans: Lead-acid batteries: 2-5 years (cheaper but need replacement); Lithium-ion batteries: 10-15 years (higher upfront cost but better long-term value); Tubular batteries: 5-7 years (good middle option). Lithium batteries are 90% efficient vs 70-80% for lead-acid, require no maintenance, and last longer. For African conditions with temperature variations, lithium or quality tubular batteries perform best. Battery lifespan depends on proper charging, depth of discharge, and maintenance. Budget $150-$500 for replacement batteries depending on type and capacity."
+  },
+  {
+    "question_id": "FAQ008",
+    "category": "Technical",
+    "keywords": ["cloudy", "rainy season", "weather", "rain", "sunlight"],
+    "question_text": "Does solar work during rainy season or cloudy days?",
+    "answer_text": "Yes, solar panels work on cloudy days but at reduced efficiency (10-25% of sunny day output). During rainy seasons, panels produce 50-70% of dry season output. This is why proper system sizing includes battery storage for 1-3 days of backup power. Most African regions have excellent solar potential year-round (4-6 peak sun hours daily). Even during heavy rain, some power is generated. Well-designed systems account for seasonal variations. Countries near the equator have consistent sunlight year-round with minimal seasonal impact."
+  },
+  {
+    "question_id": "FAQ009",
+    "category": "Technical",
+    "keywords": ["maintenance", "cleaning", "upkeep", "service", "care"],
+    "question_text": "What maintenance does a solar system require?",
+    "answer_text": "Solar systems need minimal maintenance: Panel cleaning every 2-4 weeks (or after dust storms) using water and soft cloth; check connections quarterly; monitor battery water levels monthly for lead-acid batteries (lithium needs no maintenance); inspect for shade from growing trees; professional check-up annually. In dusty areas, clean panels more frequently. Most systems include monitoring apps to track performance. Annual maintenance costs are typically $20-50. Proper maintenance ensures optimal performance and extends system life to 25+ years for panels and full battery lifespan."
+  },
+  {
+    "question_id": "FAQ010",
+    "category": "Technical",
+    "keywords": ["lifespan", "how long", "durability", "last", "warranty"],
+    "question_text": "How long do solar panels last?",
+    "answer_text": "Quality solar panels last 25-30 years with minimal degradation (0.5-0.8% per year). After 25 years, panels still produce 80-85% of original capacity. Inverters last 10-15 years and may need one replacement. Batteries require replacement based on type: lead-acid every 2-5 years, lithium every 10-15 years. Most panels come with 10-25 year performance warranties and 2-5 year product warranties. Choose reputable brands like Jinko, Canadian Solar, or Suntech for African conditions. Proper installation and maintenance maximize lifespan."
+  },
+  {
+    "question_id": "FAQ011",
+    "category": "Technical",
+    "keywords": ["installation", "install", "setup", "how to install", "DIY"],
+    "question_text": "Can I install solar panels myself or do I need a professional?",
+    "answer_text": "Small systems (under 300W) can be DIY with basic electrical knowledge and proper guidance. However, professional installation is strongly recommended for: safety (electrical hazards), warranty validity (many warranties require certified installation), proper system sizing, optimal panel positioning, electrical code compliance, and connection to grid (where applicable). Professional installation costs $100-500 depending on system size. Many PAYG providers include free installation. Improper installation can damage equipment, void warranties, or create safety hazards. Use certified installers registered with your country's renewable energy association."
+  },
+  {
+    "question_id": "FAQ012",
+    "category": "Technical",
+    "keywords": ["grid", "on-grid", "off-grid", "hybrid", "connection"],
+    "question_text": "What's the difference between on-grid, off-grid, and hybrid solar systems?",
+    "answer_text": "Off-grid: Complete independence from electricity grid, requires batteries, ideal for rural areas without grid access, higher initial cost but full energy autonomy. On-grid: Connected to utility grid, no batteries needed, sell excess power (net metering where available), lower cost, requires stable grid. Hybrid: Combines both, batteries for backup during outages, can use grid when needed, most flexible but highest cost. For most African contexts, off-grid or hybrid systems are preferred due to unreliable grid power. Urban areas with stable grid may prefer hybrid for backup during frequent outages."
+  },
+  {
+    "question_id": "FAQ013",
+    "category": "General",
+    "keywords": ["benefits", "advantages", "why solar", "reasons", "good"],
+    "question_text": "What are the main benefits of solar energy in Africa?",
+    "answer_text": "Key benefits for African context: (1) Energy access - 600+ million Africans lack electricity; solar provides immediate solution, (2) Cost savings - eliminate kerosene, diesel, and unreliable grid costs, (3) Health - no toxic fumes from kerosene lamps, (4) Productivity - power for evening study, business operations, refrigeration, (5) Environmental - clean energy, no emissions, (6) Economic development - enables small businesses, irrigation, cold storage, (7) Mobile charging - stay connected, (8) Independence - no reliance on unreliable grid, (9) Job creation - growing solar industry, (10) Climate resilience - abundant sunshine year-round."
+  },
+  {
+    "question_id": "FAQ014",
+    "category": "General",
+    "keywords": ["reliable", "dependable", "power outage", "blackout", "load shedding"],
+    "question_text": "Is solar more reliable than grid electricity in Africa?",
+    "answer_text": "In most African countries, solar with battery storage is more reliable than grid electricity. Countries like South Africa, Nigeria, Kenya, and Zimbabwe experience frequent load shedding and blackouts. Solar systems with proper battery backup provide consistent power regardless of grid status. Grid electricity averages 60-80% reliability in many African nations, while properly maintained solar systems achieve 95%+ reliability. Solar eliminates dependence on aging infrastructure, fuel shortages affecting generators, and grid maintenance issues. For businesses requiring uninterrupted power, solar is the superior choice."
+  },
+  {
+    "question_id": "FAQ015",
+    "category": "General",
+    "keywords": ["rural", "village", "remote", "off-grid area", "countryside"],
+    "question_text": "Is solar suitable for rural areas without electricity?",
+    "answer_text": "Solar is ideal for rural African areas - often the only practical solution. Benefits for rural contexts: no grid infrastructure needed, immediate installation, scalable from small (lighting) to large (irrigation, milling), mobile money payment integration, local entrepreneurship opportunities (charging stations, solar kiosks), improves education (evening study), healthcare (vaccine refrigeration, medical equipment), and agriculture (irrigation pumps, processing). Over 100 million Africans in rural areas now use solar. Mini-grids and solar home systems have electrified thousands of villages across Kenya, Tanzania, Rwanda, Ethiopia, and other countries."
+  },
+  {
+    "question_id": "FAQ016",
+    "category": "General",
+    "keywords": ["brands", "manufacturers", "best", "which company", "recommended"],
+    "question_text": "Which solar brands are recommended for Africa?",
+    "answer_text": "Recommended brands proven in African conditions - Panels: Jinko Solar, Canadian Solar, JA Solar, Suntech, Trina Solar, Longi Solar (all offer heat-resistant models); Inverters: Victron Energy (excellent support in Africa), SMA, Growatt, Studer Innotec; Batteries: Blue Nova (South African lithium), BYD, Pylontech, Narada (for lead-acid); Complete systems: M-KOPA, BBOXX, Azuri, d.light, Greenlight Planet (proven PAYG providers). Choose brands with local service centers, warranties valid in your country, and track records in African heat/dust conditions. Avoid unknown cheap brands without local support."
+  },
+  {
+    "question_id": "FAQ017",
+    "category": "General",
+    "keywords": ["business", "commercial", "shop", "enterprise", "company"],
+    "question_text": "Can solar power my business or shop?",
+    "answer_text": "Absolutely. Solar is excellent for African businesses: shops, salons, restaurants, clinics, schools, farms, and factories. Benefits: eliminate expensive diesel generators ($0.50-$1 per kWh), avoid productivity losses from outages, reduce operating costs by 40-70%, run refrigeration for products, power computers/POS systems, lighting for extended hours, and attract customers with reliable power. System sizing: Small shop - 1-2kW; Medium business - 3-5kW; Large operation - 10kW+. Many financing options exist for commercial solar including leasing and performance contracts. ROI for businesses is typically 2-4 years."
+  },
+  {
+    "question_id": "FAQ018",
+    "category": "Technical",
+    "keywords": ["inverter", "converter", "pure sine wave", "modified"],
+    "question_text": "What type of inverter do I need?",
+    "answer_text": "Choose pure sine wave inverters for African applications - they protect sensitive electronics (laptops, TVs, fridges) and run appliances efficiently. Modified sine wave inverters are cheaper but damage electronics and reduce appliance lifespan. Inverter sizing: match or exceed your peak power demand plus 20-30% buffer. For example, if your maximum simultaneous appliance use is 1000W, get a 1200-1500W inverter. Hybrid inverters are ideal for African conditions - they manage solar, battery, and grid (where available) automatically. Recommended features: MPPT charge controllers (20-30% more efficient), overload protection, and low voltage disconnect for battery protection."
+  },
+  {
+    "question_id": "FAQ019",
+    "category": "Technical",
+    "keywords": ["charge controller", "MPPT", "PWM", "regulator"],
+    "question_text": "What is a charge controller and which type should I choose?",
+    "answer_text": "Charge controllers regulate power from panels to batteries, preventing overcharging and damage. Two types: PWM (Pulse Width Modulation): 70-80% efficient, cheaper, suitable for small systems (under 500W), panels and battery voltages must match. MPPT (Maximum Power Point Tracking): 92-97% efficient, 20-30% more power harvest, works with voltage mismatches, better for larger systems, optimal for cloudy conditions. For African conditions, MPPT is recommended despite higher cost - the extra energy generation pays for itself within 1-2 years. Essential for systems over 500W or where maximizing limited panel space is important."
+  },
+  {
+    "question_id": "FAQ020",
+    "category": "Financial",
+    "keywords": ["loan", "credit", "borrow", "finance", "bank"],
+    "question_text": "Can I get a loan to buy a solar system?",
+    "answer_text": "Yes, multiple financing options exist: (1) Solar company financing - built into PAYG or installment plans, no bank needed, (2) Microfinance institutions (MFIs) - offer green energy loans with 12-36 month terms, (3) SACCOs - member-based credit at favorable rates, (4) Commercial banks - some offer solar loans (6-15% interest), (5) Mobile lending - M-Shwari, Branch, Tala provide quick loans, (6) Development finance - programs by AfDB, World Bank partners. Requirements vary but typically include: proof of income, ID, down payment (10-30%), and sometimes collateral. Interest rates range from 8-25% depending on provider and country."
+  },
+  {
+    "question_id": "FAQ021",
+    "category": "Technical",
+    "keywords": ["generator", "diesel", "replace", "versus", "compare"],
+    "question_text": "Should I replace my diesel generator with solar?",
+    "answer_text": "Yes, solar offers major advantages over diesel generators in African context: Cost: diesel costs $0.30-$0.70 per kWh vs solar at $0.05-$0.15 per kWh after payback; Maintenance: generators need frequent servicing, oil changes, repairs; Reliability: fuel shortages don't affect solar; Noise: solar is silent; Environment: no fumes or emissions; Lifespan: solar lasts 25+ years vs generators 5-10 years. Hybrid approach works well - keep generator for backup during extended cloudy periods or peak loads, but run primarily on solar. Businesses typically recover solar investment within 2-3 years from diesel savings alone."
+  },
+  {
+    "question_id": "FAQ022",
+    "category": "General",
+    "keywords": ["water", "pump", "irrigation", "borehole", "farming"],
+    "question_text": "Can solar power water pumps for farming or irrigation?",
+    "answer_text": "Solar water pumping is highly effective for African agriculture. Benefits: no fuel costs, operate in remote areas, low maintenance, can pump during peak sunshine when water need is highest. System types: surface pumps for shallow water (up to 20m), submersible pumps for boreholes (up to 200m), typical systems range 500W-5kW depending on depth and volume needed. A 1kW system can pump 20,000-40,000 liters daily from 20-30m depth. Initial cost: $1,500-$5,000 depending on capacity. ROI: 2-4 years compared to diesel pumps. Enables year-round irrigation, increasing crop yields by 200-400%."
+  },
+  {
+    "question_id": "FAQ023",
+    "category": "Technical",
+    "keywords": ["heat", "temperature", "hot climate", "performance", "efficiency"],
+    "question_text": "How does African heat affect solar panel performance?",
+    "answer_text": "Solar panels actually lose efficiency in extreme heat (0.3-0.5% per degree above 25°C). However, African countries still have excellent solar potential due to intense sunlight and long sun hours (4-6.5 peak hours daily). Panel performance: at 45°C (common in African heat), panels operate at 90-92% of rated capacity. Solutions: proper ventilation beneath panels (10-15cm gap), choose panels with low temperature coefficients, tilt angles that allow air circulation. Despite heat losses, African solar systems outperform temperate climates due to superior irradiation. Countries like Namibia, Botswana, and Egypt have some of world's best solar resources."
+  },
+  {
+    "question_id": "FAQ024",
+    "category": "General",
+    "keywords": ["safety", "danger", "risk", "hazard", "safe"],
+    "question_text": "Are solar systems safe?",
+    "answer_text": "Solar systems are very safe when properly installed and maintained. Safety features: panels have no moving parts, low voltage DC systems (12V/24V) are safer than grid AC, modern inverters have multiple safety protections (short circuit, overload, surge protection), batteries are sealed to prevent leakage. Risks to avoid: improper wiring causing fires (use certified installers), electrical shock from faulty connections, battery acid exposure from damaged lead-acid batteries (lithium is safer). Safety certifications: look for IEC, TUV, or equivalent certifications. Lightning protection recommended in storm-prone areas. Solar is far safer than kerosene lamps (fire/respiratory hazards) or diesel generators (carbon monoxide poisoning)."
+  },
+  {
+    "question_id": "FAQ025",
+    "category": "General",
+    "keywords": ["environment", "green", "climate", "carbon", "sustainable"],
+    "question_text": "How does solar energy help the environment?",
+    "answer_text": "Solar provides major environmental benefits for Africa: Zero emissions - unlike diesel generators, grid power from fossil fuels, or kerosene; Carbon reduction - a typical 1kW system prevents 1-1.5 tons of CO2 annually; Reduces deforestation - less charcoal/wood burning for energy; No air pollution - prevents respiratory diseases from kerosene lamps; No water pollution - unlike oil/diesel leaks; Climate resilience - abundant resource immune to climate change; Ecosystem protection - no mining or extraction needed after installation. Africa is most vulnerable to climate change despite contributing least to emissions. Solar enables development without environmental destruction. Every solar installation contributes to continental and global climate goals."
+  },
+  {
+    "question_id": "FAQ026",
+    "category": "Technical",
+    "keywords": ["expand", "upgrade", "add", "increase", "scale"],
+    "question_text": "Can I start small and expand my solar system later?",
+    "answer_text": "Yes, solar systems are highly scalable. Recommended approach: Start with essential loads (lights, phone charging, TV) with a 300-500W system; Add panels as budget allows - panels can be added incrementally; Upgrade batteries when needed for more storage; Expand inverter capacity for larger appliances. Ensure initial components support expansion: buy inverter with higher capacity than current need, use MPPT charge controller that accepts additional panels, choose battery-compatible with parallel connection. Many Africans start with solar home system kits and expand over 2-5 years. PAYG providers often offer upgrade paths. This approach spreads costs and allows learning before major investment."
+  },
+  {
+    "question_id": "FAQ027",
+    "category": "Financial",
+    "keywords": ["mobile money", "M-Pesa", "MTN", "Airtel Money", "payment"],
+    "question_text": "How does mobile money payment work for solar systems?",
+    "answer_text": "Mobile money revolutionized African solar access through PAYG models. How it works: (1) Purchase solar system with small deposit (10-20%), (2) Make daily/weekly/monthly payments via mobile money (M-Pesa in East Africa, MTN/Airtel across continent), (3) System unlocks for usage period after each payment, (4) Miss payment and system locks until payment received, (5) After 12-36 months of payments, system is fully unlocked and owned. Benefits: no credit checks, accessible to informal economy workers, payment flexibility, built-in payment reminders, instant unlocking, track usage via app. Over 40 million Africans now use PAYG solar systems through providers like M-KOPA, BBOXX, Azuri, and d.light."
+  },
+  {
+    "question_id": "FAQ028",
+    "category": "General",
+    "keywords": ["fake", "counterfeit", "quality", "scam", "fraud"],
+    "question_text": "How can I avoid fake or poor quality solar products?",
+    "answer_text": "Protect yourself from substandard products: (1) Buy from established companies with physical offices and good reputation, (2) Check certifications - IEC 61215 for panels, IEC 62109 for inverters, (3) Verify warranty terms and local service availability, (4) Avoid too-good-to-be-true prices (quality panels cost $0.40-$0.70 per watt), (5) Ask for references from existing customers, (6) Check online reviews and social media presence, (7) Ensure products have clear labeling with manufacturer details, (8) Request product datasheets showing specifications, (9) Work with certified installers registered with national renewable energy associations. Red flags: no warranty, no brand markings, prices 50%+ below market, sellers without fixed location, pressure sales tactics."
+  },
+  {
+    "question_id": "FAQ029",
+    "category": "Technical",
+    "keywords": ["appliances", "fridge", "TV", "power", "run"],
+    "question_text": "What appliances can I run on solar power?",
+    "answer_text": "Solar can power virtually any appliance if system is sized correctly. Common loads: LED lights (5-20W each), phone charging (10-20W), TV (30-100W), laptop (50-100W), fans (50-75W), radio (10-30W), DC fridge (40-60W), satellite dish (30W). Energy-efficient appliances crucial for solar: use LED bulbs not incandescent, DC appliances when possible (no inverter losses), energy-star rated fridges, avoid electric stoves/heaters (use gas instead), consider DC water pumps. Power consumption: calculate total watts used simultaneously to size inverter; calculate watt-hours daily for battery sizing. Example: 4 LED bulbs (40W) + TV (70W) + phone charging (20W) = 130W continuous load, needs 200W inverter and 400-600Wh daily battery capacity."
+  },
+  {
+    "question_id": "FAQ030",
+    "category": "General",
+    "keywords": ["training", "jobs", "career", "employment", "technician"],
+    "question_text": "Are there training opportunities and jobs in the solar industry?",
+    "answer_text": "Africa's solar industry is booming with excellent career opportunities. Training options: (1) Technical colleges offer solar installation certificates (3-6 months), (2) Manufacturers provide training on their products, (3) Online courses from Solar Energy International, GSES, etc., (4) On-the-job training with solar companies, (5) University renewable energy programs, (6) Government skills development programs. Job opportunities: solar installers/technicians (high demand), sales agents, system designers, maintenance technicians, PAYG field agents, customer service, project managers, solar engineers. Entry salaries: $200-500/month for technicians, rising to $800-2000+ for experienced engineers. Industry growing 30-40% annually across Africa. Organizations like Africa Mini-Grid Developers Association provide networking and training. Entrepreneurship opportunities in installation, maintenance, and solar product distribution."
+  }
+]

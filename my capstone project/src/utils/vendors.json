@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "company_name": "SunPeak Energy Solutions Ltd",
+    "rating": 4.6,
+    "verification_status": true,
+    "years_in_business": 8,
+    "headquarters": "Lagos, Nigeria",
+    "specialties": ["Lithium-ion", "Hybrid Systems", "Commercial Installations"]
+  },
+  {
+    "id": 2,
+    "company_name": "GreenGrid Solar Technologies",
+    "rating": 4.2,
+    "verification_status": true,
+    "years_in_business": 5,
+    "headquarters": "Abuja, Nigeria",
+    "specialties": ["Residential Solar", "Inverters", "Battery Storage"]
+  },
+  {
+    "id": 3,
+    "company_name": "HelioPower Rwanda",
+    "rating": 4.0,
+    "verification_status": false,
+    "years_in_business": 4,
+    "headquarters": "Kigali, Rwanda",
+    "specialties": ["Off-Grid Systems", "Solar Street Lighting"]
+  },
+  {
+    "id": 4,
+    "company_name": "BrightRay Renewables",
+    "rating": 4.8,
+    "verification_status": true,
+    "years_in_business": 10,
+    "headquarters": "Kano, Nigeria",
+    "specialties": ["Hybrid Systems", "Industrial Solar", "Energy Audits"]
+  },
+  {
+    "id": 5,
+    "company_name": "EcoWatt Solar Services",
+    "rating": 4.1,
+    "verification_status": true,
+    "years_in_business": 6,
+    "headquarters": "Ouagadougou, Burkina Faso",
+    "specialties": ["Lithium-ion", "Solar Water Pumps"]
+  },
+  {
+    "id": 6,
+    "company_name": "NovaSun Energy Ltd",
+    "rating": 3.7,
+    "verification_status": false,
+    "years_in_business": 3,
+    "headquarters": "Enugu, Nigeria",
+    "specialties": ["Residential Solar", "Mini-Grids"]
+  },
+  {
+    "id": 7,
+    "company_name": "BlueSky Solar Africa",
+    "rating": 4.5,
+    "verification_status": true,
+    "years_in_business": 7,
+    "headquarters": "Lagos, Nigeria",
+    "specialties": ["Battery Storage", "Hybrid Systems", "Maintenance Services"]
+  },
+  {
+    "id": 8,
+    "company_name": "PrimeVolt Energy",
+    "rating": 4.0,
+    "verification_status": true,
+    "years_in_business": 5,
+    "headquarters": "Abuja, Nigeria",
+    "specialties": ["Off-Grid Systems", "Solar Inverters"]
+  },
+  {
+    "id": 9,
+    "company_name": "SolarBridge Africa",
+    "rating": 3.5,
+    "verification_status": false,
+    "years_in_business": 2,
+    "headquarters": "Porto-Novo, Benin Republic",
+    "specialties": ["Solar Home Systems", "Installation Services"]
+  },
+  {
+    "id": 10,
+    "company_name": "RadiantEdge Solar",
+    "rating": 4.9,
+    "verification_status": true,
+    "years_in_business": 12,
+    "headquarters": "Lagos, Nigeria",
+    "specialties": ["Industrial Solar", "Lithium-ion", "Hybrid Systems"]
+  },
+  {
+    "id": 11,
+    "company_name": "SunCraft Power Rwanda",
+    "rating": 4.3,
+    "verification_status": true,
+    "years_in_business": 6,
+    "headquarters": "Kigali, Rwanda",
+    "specialties": ["Solar Water Pumps", "Mini-Grids"]
+  },
+  {
+    "id": 12,
+    "company_name": "EverGreen Solar Hub",
+    "rating": 3.8,
+    "verification_status": false,
+    "years_in_business": 4,
+    "headquarters": "Owerri, Nigeria",
+    "specialties": ["Residential Solar", "Battery Storage"]
+  },
+  {
+    "id": 13,
+    "company_name": "VoltRise Energy Systems",
+    "rating": 4.4,
+    "verification_status": true,
+    "years_in_business": 9,
+    "headquarters": "Abuja, Nigeria",
+    "specialties": ["Hybrid Systems", "Energy Audits", "Commercial Installations"]
+  },
+  {
+    "id": 14,
+    "company_name": "LightWave Solar Burkina",
+    "rating": 3.6,
+    "verification_status": false,
+    "years_in_business": 3,
+    "headquarters": "Ouagadougou, Burkina Faso",
+    "specialties": ["Solar Street Lighting", "Off-Grid Systems"]
+  },
+  {
+    "id": 15,
+    "company_name": "ApexSun Renewables",
+    "rating": 4.7,
+    "verification_status": true,
+    "years_in_business": 11,
+    "headquarters": "Port Harcourt, Nigeria",
+    "specialties": ["Lithium-ion", "Industrial Solar", "Maintenance Services"]
+  }
+]

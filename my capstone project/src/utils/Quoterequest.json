@@ -1,0 +1,31 @@
+[
+  {
+    "quoteId": "QR-1771192113055-521",
+    "status": "pending",
+    "timestamp": "2026-02-15T21:48:33.055Z",
+    "userData": {
+      "name": "Chioma Okafor",
+      "email": "chioma.bakery@gmail.com",
+      "phone": "+234 803 123 4567",
+      "businessName": "Chioma's Premium Bakery",
+      "location": "Surulere, Lagos"
+    },
+    "vendor": {
+      "id": 10,
+      "company_name": "RadiantEdge Solar",
+      "email": "sales@radiantedge.ng",
+      "phone": "+234 801 234 5678"
+    },
+    "systemDetails": {
+      "recommendedCapacityKW": 12.8,
+      "totalCost": 19560000,
+      "monthlySavings": 202500,
+      "paybackPeriodYears": 8.1,
+      "components": {
+        "panels": 32,
+        "inverterKVA": 20,
+        "batteries": 5
+      }
+    }
+  }
+]
